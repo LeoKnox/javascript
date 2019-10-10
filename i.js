@@ -1,0 +1,1 @@
+document.getElementById("iform").innerHTML="<input type='text'></input>";
